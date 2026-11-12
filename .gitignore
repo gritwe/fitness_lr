@@ -1,0 +1,17 @@
+.vs/
+**/bin/
+**/obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.env
+.env.*
+!.env.example
+
+**/appsettings.Development.json
+**/secrets.json
+*.pfx
+*.key

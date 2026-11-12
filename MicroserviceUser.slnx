@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MicroserviceUser/MicroserviceUser.csproj" />
+  <Project Path="MicroserviceСompositeSC/MicroserviceСompositeSC.csproj" Id="81d5e389-19fd-4682-8b7f-2130c3363dd2" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="a8349589-1974-4217-bba1-1de4d669cd81" />
+  <Project Path="WorkoutProgram/WorkoutProgram.csproj" Id="f62f2643-ef26-4e91-b64a-116723446277" />
+</Solution>
